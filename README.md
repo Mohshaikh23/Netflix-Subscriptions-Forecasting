@@ -2,13 +2,17 @@
 
 This Streamlit app allows you to forecast the number of Netflix subscriptions for future quarters using the ARIMA time series forecasting model. You can interact with the app to adjust forecasting parameters, view forecasts, and explore the historical subscription data.
 
+!(App View)[ss1.png]
+
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [App Features](#app-features)
-- [Data Source](#data-source)
-- [License](#license)
+- [Netflix Subscription Forecasting with Streamlit](#netflix-subscription-forecasting-with-streamlit)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [App Features](#app-features)
+  - [Data Source](#data-source)
+  - [License](#license)
 
 ## Installation
 
